@@ -25,11 +25,15 @@ My toolkit: **SQL**, **Power BI**, and **Excel**—used daily to clean, model, v
 - Technical Documentation & Communication
 
 ## When I’m Not Crunching Datasets, You’ll Find Me:
-✍️Sharing bite-sized insights and career tips for analysts on LinkedIn 
-🔁 Learning, unlearning, and mastering tools like i work with as a data analyst
-💡  Volunteering to mentor aspiring data professionals and beginners in tech
-💜 Engaging in charity and education-focused projects as part of my Community Development Service (CDS)
-📁 Building a purposeful portfolio and documenting projects with clarity and flair
+-✍️Sharing bite-sized insights and career tips for analysts on LinkedIn 
+
+-🔁 Learning, unlearning, and mastering tools like i work with as a data analyst
+
+-💡  Volunteering to mentor aspiring data professionals and beginners in tech
+
+-💜 Engaging in charity and education-focused projects as part of my Community Development Service (CDS)
+
+-📁 Building a purposeful portfolio and documenting projects with clarity and flair
 
 ## 🛠 Tech Stack:
 <p align="left"> 
