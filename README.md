@@ -24,7 +24,7 @@ My toolkit: **SQL**, **Power BI**, and **Excel**—used daily to clean, model, v
 - KPI Tracking & Performance Reporting 
 - Technical Documentation & Communication
 
-## When I’m Not Crunching Datasets, You’ll Find Me:
+## When I’m Not Analyzing Data, I’m Creating Impact By:
 ✍️Sharing bite-sized insights and career tips for analysts on LinkedIn 
 
 🔁 Learning, unlearning, and mastering tools like i work with as a data analyst
