@@ -13,7 +13,7 @@
 
 I’m [Victoria Ogunkolade](https://www.linkedin.com/in/victoriaogunkolade), a data analyst with an economist’s eye and a knack for turning complex data into clear, compelling insights. From uncovering patterns hidden in spreadsheets to building dashboards that speak for themselves, I turn numbers into narratives that drive informed decisions.
 
-My toolkit: **SQL**, **Power BI**, and **Excel**—used daily to clean, model, visualize, and report data in ways that spark action.
+My toolkit: **SQL**, **Power BI**, and **Excel** used daily to clean, model, visualize, and report data in ways that spark action.
 
 ## 🔧 Core Competencies:
 - Data Cleaning & Transformation  
