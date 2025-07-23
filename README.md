@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm [Victoria Ogunkolade](https://www.linkedin.com/in/victoriaogunkolade), a results-oriented Data Analyst with a background in Economics and a passion for transforming raw data into strategic insights. With hands-on experience in data cleaning, analysis, modeling and visualization, I specialize in crafting interactive dashboards and performance reports that drive evidence-based decision-making. I approach data challenges with analytical rigor and business acumen, turning complex datasets into narratives that inform, influence, and inspire. My goal is to deliver impactful solutions that bridge the gap between numbers and business strategy.
+I'm [Victoria Ogunkolade](https://www.linkedin.com/in/victoriaogunkolade), a results-oriented Data and Business Analyst with a background in Economics and a passion for transforming raw data into strategic insights. With hands-on experience in data cleaning, analysis, modeling and visualization, I specialize in crafting interactive dashboards and performance reports that drive evidence-based decision-making. I approach data challenges with analytical rigor and business acumen, turning complex datasets into narratives that inform, influence, and inspire. My goal is to deliver impactful solutions that bridge the gap between numbers and business strategy.
 
 
 
