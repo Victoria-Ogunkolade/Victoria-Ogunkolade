@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm [Victoria Ogunkolade](https://www.linkedin.com/in/victoriaogunkolade), a results-oriented Data and Business Analyst with a background in Economics and a passion for transforming raw data into strategic insights. With hands-on experience in data cleaning, analysis, modeling and visualization, I specialize in crafting interactive dashboards and performance reports that drive evidence-based decision-making. I approach data challenges with analytical rigor and business acumen, turning complex datasets into narratives that inform, influence, and inspire. My goal is to deliver impactful solutions that bridge the gap between numbers and business strategy.
+I'm [Victoria Ogunkolade](https://www.linkedin.com/in/victoriaogunkolade), a results-oriented Data, Business and Sales Analyst with a background in Economics and a passion for transforming raw data into strategic insights. With hands-on experience in data cleaning, analysis, modeling and visualization, I specialize in crafting interactive dashboards and performance reports that drive evidence-based decision-making. I approach data challenges with analytical rigor and business acumen, turning complex datasets into narratives that inform, influence, and inspire. My goal is to deliver impactful solutions that bridge the gap between numbers and business strategy.
 
 
 
@@ -42,8 +42,9 @@ My toolkit: **SQL**, **Power BI**, and **Excel** used daily to clean, model, vis
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" height="30"/>
   <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server" height="30"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" height="30"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" height="30"/>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="30"/>
   <img src="https://img.shields.io/badge/Power%20Query-008272?style=flat&logo=microsoft&logoColor=white" alt="Power Query" height="30"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=power-automate&logoColor=white" alt="Power Automate" height="30"/>
 </p>
 
 ## Connect with Me:
