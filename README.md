@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victoria Ogunkolade</h1>
 <div align="center">
-<h3>Data Analyst 📊 &nbsp;
+<h3>Data | Business | Sales Analyst 📊 &nbsp;
 </div>
 
 <p align="center">
